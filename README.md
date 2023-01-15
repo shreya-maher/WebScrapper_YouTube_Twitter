@@ -34,3 +34,5 @@ The YouTube Scrapper: (youtubescrapper_dmdd.py)
 
 4. Output: 2 CSV files with users information and information of related videos from profiles 
 (Parameters in 2 files: User ID, Profile Views, Profile Subscribers, Name, Location, Created At,URL)  
+
+PLEASE NOTE: The file for Twitter scrapper required you to link your own config file
